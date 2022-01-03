@@ -1,5 +1,8 @@
-# mac
-.DS_Store
+*.xml
+*.iml
 
-.xml
-.iml
+# mac
+*.DS_Store
+
+# pyton
+venv
