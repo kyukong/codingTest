@@ -15,5 +15,10 @@
   - [javascript 풀이(이건호)](https://github.com/kyukong/codingTest/blob/main/src/programmers/level1/K%EB%B2%88%EC%A7%B8%EC%88%98/K%EB%B2%88%EC%A7%B8%EC%88%98(%EC%9D%B4%EA%B1%B4%ED%98%B8).js)
 - [H-Index](https://github.com/kyukong/codingTest/tree/main/src/programmers/level2/H-Index)
   - [javascript 풀이(이건호)](https://github.com/kyukong/codingTest/blob/main/src/programmers/level2/H-Index/H-Index(%EC%9D%B4%EA%B1%B4%ED%98%B8).js)
+
+### 탐욕법(Greedy)
+
+**프로그래머스**
 - [체육복](https://github.com/kyukong/codingTest/tree/main/src/programmers/level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+  - [python 풀이(김유빈)](https://github.com/kyukong/codingTest/blob/dev/yukong/src/programmers/level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5/%EC%B2%B4%EC%9C%A1%EB%B3%B5(%EA%B9%80%EC%9C%A0%EB%B9%88).py)
   - [javascript 풀이(이건호)](https://github.com/kyukong/codingTest/blob/main/src/programmers/level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5/%EC%B2%B4%EC%9C%A1%EB%B3%B5(%EC%9D%B4%EA%B1%B4%ED%98%B8).js)
